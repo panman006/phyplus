@@ -1,0 +1,59 @@
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background-color: #f8f7f4;
+    color: #234048;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    background-color: #e1f2ee;
+    padding: 2rem 1rem 1rem 1rem;
+    border-bottom: 2px solid #39ac94;
+}
+.logo {
+    width: 120px;
+    height: auto;
+    margin-bottom: 1rem;
+}
+header h1 {
+    font-size: 2.2rem;
+    margin: 0.5rem 0 0.3rem 0;
+}
+header p {
+    color: #39ac94;
+    font-weight: 500;
+}
+
+main {
+    max-width: 650px;
+    margin: 2rem auto;
+    padding: 0 1.5rem;
+    background: #ffffffb0;
+    border-radius: 12px;
+    box-shadow: 0 2px 16px #afd9cac3;
+}
+
+.intro, .services, .contact {
+    margin-bottom: 2.5rem;
+}
+section h2 {
+    color: #31a380;
+    margin-bottom: 0.7rem;
+}
+
+ul {
+    padding-left: 1.2em;
+    line-height: 1.8;
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    color: #fff;
+    background: #39ac94;
+    margin-top: 2rem;
+    border-radius: 0 0 8px 8px;
+    font-size: 1rem;
+}
